@@ -1,0 +1,53 @@
+﻿Scintilla.dll not found
+There is no text to process
+Found
+Not found.
+No groups, select groups with brackets in regular expression
+Regular Expression Test
+Regular expression to search
+Replacement text
+Text to process and result
+Open file for processing
+Clear all fields
+Add/replace to library
+Remove item from library
+Metacharacters menu
+Move text up
+Show range
+Reference
+Start
+OnTop
+hold
+Do not update processing text when inserting templates
+(?s) dot all
+(?x) ignore spaces and comments.
+(?m) multiline text (^...$)
+Any of CR, LF, and CRLF
+(?i) Ignore case
+Dot also includes LF
+line separator can be any of these characters
+Search
+Replacement
+Array
+Groups
+Step by step
+Before the first match
+Replace all occurrences
+All complete occurrences
+What's in brackets
+More position and length
+Support for groups \1...\9
+With markup
+Marks the beginning, useful for multiline
+Input data is empty
+Template file not found
+Name
+Specify item name
+Overwrite?
+Item 
+ already exists, overwrite it?
+Delete?
+Delete: 
+Found: 
+Range Test
+Code on clipboard
